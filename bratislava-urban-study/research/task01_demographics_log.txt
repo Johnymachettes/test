@@ -1,0 +1,105 @@
+
+╔═══════════════════════════════════════════════════════════════════╗
+║          GOAL-ORIENTED RESEARCH (GOALIE + SWARM)                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+Goal: Komplexný demografický profil Bratislavy od roku 1990 do 2025: Nájdi celkovú populáciu v rokoch 1990, 2000, 2010, 2015, 2020, 2023, 2024, hustotu osídlenia, ročný prírastok/úbytok populácie v percentách, prirodzený prírastok (narodenia mínus úmrtia), migračný prírastok (prisťahovaní mínus vysťahovaní), odkiaľ prichádzajú migranti (iné regióny SR, zahraničie), kam odchádzajú obyvatelia. Zdroje: Štatistický úrad SR, bratislava.sk, Eurostat, UN-Habitat. Potrebujem konkrétne čísla, tabuľky a grafy.
+
+
+🎯 GOALIE Goal Decomposition
+
+Goal: Komplexný demografický profil Bratislavy od roku 1990 do 2025: Nájdi celkovú populáciu v rokoch 1990, 2000, 2010, 2015, 2020, 2023, 2024, hustotu osídlenia, ročný prírastok/úbytok populácie v percentách, prirodzený prírastok (narodenia mínus úmrtia), migračný prírastok (prisťahovaní mínus vysťahovaní), odkiaľ prichádzajú migranti (iné regióny SR, zahraničie), kam odchádzajú obyvatelia. Zdroje: Štatistický úrad SR, bratislava.sk, Eurostat, UN-Habitat. Potrebujem konkrétne čísla, tabuľky a grafy.
+
+Registered plugin: cache-plugin v1.0.0
+📦 Registered cache plugin
+Registered plugin: chain-of-thought v1.0.0
+🧠 Registered advanced plugin: chain-of-thought
+Registered plugin: self-consistency v1.0.0
+🧠 Registered advanced plugin: self-consistency
+Registered plugin: anti-hallucination v1.0.0
+🧠 Registered advanced plugin: anti-hallucination
+Registered plugin: agentic-research-flow v1.0.0
+🧠 Registered advanced plugin: agentic-research-flow
+✅ Plugin registry initialized with 5 plugins
+[DEBUG] MCP Tools environment check: {
+  hasPerplexityKey: false,
+  perplexityKeyLength: 0,
+  envKeys: [],
+  totalEnvKeys: 89
+}
+error: unknown option '--plugin'
+⚠️  GOALIE decomposition failed, using single goal
+📋 Research Plan:
+
+   1. Komplexný demografický profil Bratislavy od roku 1990 do 2025: Nájdi celkovú populáciu v rokoch 1990, 2000, 2010, 2015, 2020, 2023, 2024, hustotu osídlenia, ročný prírastok/úbytok populácie v percentách, prirodzený prírastok (narodenia mínus úmrtia), migračný prírastok (prisťahovaní mínus vysťahovaní), odkiaľ prichádzajú migranti (iné regióny SR, zahraničie), kam odchádzajú obyvatelia. Zdroje: Štatistický úrad SR, bratislava.sk, Eurostat, UN-Habitat. Potrebujem konkrétne čísla, tabuľky a grafy.
+      Complexity: high | Priority: 1
+
+
+🔬 Executing Sub-Goal 1/1
+
+"Komplexný demografický profil Bratislavy od roku 1990 do 2025: Nájdi celkovú populáciu v rokoch 1990, 2000, 2010, 2015, 2020, 2023, 2024, hustotu osídlenia, ročný prírastok/úbytok populácie v percentách, prirodzený prírastok (narodenia mínus úmrtia), migračný prírastok (prisťahovaní mínus vysťahovaní), odkiaľ prichádzajú migranti (iné regióny SR, zahraničie), kam odchádzajú obyvatelia. Zdroje: Štatistický úrad SR, bratislava.sk, Eurostat, UN-Habitat. Potrebujem konkrétne čísla, tabuľky a grafy."
+
+Deploying 6-agent swarm...
+
+
+╔═══════════════════════════════════════════════════════════════════╗
+║                    RESEARCH SWARM ACTIVATED                        ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+🐝 Deploying 6 specialized research agents...
+
+   🔍 1. EXPLORER (Priority 1)
+   🔬 2. DEPTH ANALYST (Priority 1)
+   ✅ 3. VERIFIER (Priority 2)
+   📈 4. TREND ANALYST (Priority 1)
+   🎓 5. DOMAIN EXPERT (Priority 1)
+   🧩 6. SYNTHESIZER (Priority 3)
+
+
+🔄 Priority 1 (4 agents):
+
+- 🔍 explorer: Conduct broad exploratory research on: Komplexný d...
+- 🔬 depth-analyst: Perform deep technical analysis of: Komplexný demo...
+- 📈 trend-analyst: Analyze temporal trends and patterns for: Komplexn...
+❌ ANTHROPIC_API_KEY not found in .env file
+❌ ANTHROPIC_API_KEY not found in .env file
+✖ 🔍 explorer: Failed
+❌ ANTHROPIC_API_KEY not found in .env file
+✖ 🔬 depth-analyst: Failed
+✖ 📈 trend-analyst: Failed
+- 🎓 domain-expert: Provide domain-specific expertise on: Komplexný de...
+❌ ANTHROPIC_API_KEY not found in .env file
+✖ 🎓 domain-expert: Failed
+
+🔄 Priority 2 (1 agents):
+
+- ✅ verifier: Verify and fact-check information about: Komplexný...
+❌ ANTHROPIC_API_KEY not found in .env file
+✖ ✅ verifier: Failed
+
+🔄 Priority 3 (1 agents):
+
+- 🧩 synthesizer: Synthesize all research findings about: Komplexný ...
+❌ ANTHROPIC_API_KEY not found in .env file
+✖ 🧩 synthesizer: Failed
+
+╔═══════════════════════════════════════════════════════════════════╗
+║                    SWARM COMPLETE                                  ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+📊 Results: 0/6 successful (0.0%)
+
+❌ Sub-goal failed
+
+
+╔═══════════════════════════════════════════════════════════════════╗
+║                GOAL-ORIENTED RESEARCH COMPLETE                     ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+📊 Summary:
+
+   Original goal: Komplexný demografický profil Bratislavy od roku 1990 do 2025: Nájdi celkovú populáciu v rokoch 1990, 2000, 2010, 2015, 2020, 2023, 2024, hustotu osídlenia, ročný prírastok/úbytok populácie v percentách, prirodzený prírastok (narodenia mínus úmrtia), migračný prírastok (prisťahovaní mínus vysťahovaní), odkiaľ prichádzajú migranti (iné regióny SR, zahraničie), kam odchádzajú obyvatelia. Zdroje: Štatistický úrad SR, bratislava.sk, Eurostat, UN-Habitat. Potrebujem konkrétne čísla, tabuľky a grafy.
+   Sub-goals completed: 0/1
+   Total agents deployed: 6
+   Success rate: 0.0%
+
