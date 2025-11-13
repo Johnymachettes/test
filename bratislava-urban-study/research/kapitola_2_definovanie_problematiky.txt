@@ -1,0 +1,143 @@
+2. DEFINOVANIE PROBLEMATIKY – Vysvetlenie základných pojmov
+
+2.1 Preľudnenie a hustota osídlenia
+
+Preľudnenie (overpopulation) predstavuje stav, keď počet obyvateľov v danej oblasti presahuje kapacitu prostredia zabezpečiť primeranú kvalitu života, dostatok zdrojov a základnú infraštruktúru. V kontexte mestského prostredia sa preľudnenie prejavuje vysokou hustotou osídlenia, nedostatkom bývania, preťažením verejných služieb, ekologickými problémami a sociálnymi napätiami (United Nations, 2019).
+
+Hustota osídlenia sa meria ako počet obyvateľov na jednotku plochy, zvyčajne na kilometer štvorcový (obyv./km²). Tento ukazovateľ je kľúčový pre pochopenie miery urbanizačného tlaku a jeho dôsledkov na kvalitu života obyvateľov. Podľa údajov OSN (UN-Habitat, 2022) patrí medzi najhustejšie osídlené mestá sveta:
+
+• Dháka (Bangladéš) – približne 44 500 obyv./km²
+• Manila (Filipíny) – približne 41 500 obyv./km²
+• Mumbai (India) – približne 31 700 obyv./km²
+• Káhira (Egypt) – približne 27 000 obyv./km²
+• Karáčí (Pakistan) – približne 24 000 obyv./km²
+• Lagos (Nigéria) – približne 21 000 obyv./km²
+
+Pre porovnanie, európske mestá dosahujú výrazne nižšie hodnoty – Paríž približne 21 000 obyv./km², Barcelona 16 000 obyv./km², Viedeň len okolo 4 500 obyv./km². Tento rozdiel odráža nielen geografické a historické faktory, ale predovšetkým odlišné modely urbanizačného rozvoja a ekonomickej vyspelosti (World Bank, 2023).
+
+2.2 Megacities – definícia a charakteristika
+
+Pojem megacity (megamesto) označuje metropolitnú oblasť s populáciou presahujúcou 10 miliónov obyvateľov (UN-Habitat, 2020). Tento koncept vznikol v druhej polovici 20. storočia, keď mestá v rozvojových krajinách začali zaznamenávať bezprecedentný populačný rast. V roku 1950 existovali na svete len dve megacity – New York a Tokio. Do roku 2023 ich počet vzrástol na 33 a do roku 2030 sa očakáva až 43 megacities, pričom väčšina z nich bude v Ázii a Afrike (United Nations, 2022).
+
+Megacities sa vyznačujú niekoľkými spoločnými znakmi:
+- Rýchly a nekontrolovaný rast populácie, často sprevádzaný nelegálnou výstavbou
+- Vysoká miera chudoby a sociálnej nerovnosti
+- Preťažená infraštruktúra (doprava, voda, elektrická energia, odpadové hospodárstvo)
+- Environmentálne problémy (znečistenie ovzdušia, nedostatok pitnej vody, strata zelených ploch)
+- Ekonomická polarizácia – existencia bohatých obchodných štvrťí popri rozsiahлych slumoch
+
+Typickými príkladmi megacities s vysokou mierou chudoby sú Lagos (Nigéria, 15 mil. obyvateľov), Dháka (Bangladéš, 22 mil.), Manila (Filipíny, 14 mil.) a Karáčí (Pakistan, 16 mil.). Tieto mestá čelia obrovským výzvam v oblasti zabezpečenia základných ľudských potrieb, zamestnanosti a životného prostredia (World Bank, 2023).
+
+2.3 Príčiny globálneho preľudnenia miest
+
+Rastúca koncentrácia obyvateľstva v mestách, najmä v chudobných častiach sveta, je výsledkom kombinácie demografických, ekonomických, sociálnych a politických faktorov:
+
+A) Demografické faktory
+- Vysoká miera plodnosti v rozvojových krajinách (napr. subsaharská Afrika, Južná Ázia)
+- Pokles detskej úmrtnosti vďaka zlepšenej zdravotnej starostlivosti
+- Mladá veková štruktúra populácie s vysokým reprodukčným potenciálom
+
+B) Ekonomické faktory
+- Vnútorná migrácia z vidieka do miest za prácou a lepšími životnými podmienkami (pull faktory)
+- Chudoba, nedostatok pracovných príležitostí a pôdnej reformy na vidieku (push faktory)
+- Globalizácia a presun výrobných kapacít do rozvojových krajín
+- Neformálna ekonomika poskytujúca príležitosti aj nekvalifikovaným pracovníkom
+
+C) Sociálne a kultúrne faktory
+- Lepší prístup k vzdelaniu, zdravotníctvu a sociálnym službám v mestách
+- Mestá ako centrá kultúry, zábavy a sociálnej mobility
+- Tlak tradičných spoločenstiev a nedostatok príležitostí pre ženy na vidieku
+
+D) Environmentálne a politické faktory
+- Klimatická zmena, degradácia pôdy, sucho a prírodné katastrofy vyhánajúce ľudí z vidieka
+- Politická nestabilita, konflikty a núdzová migrácia do mestských centier
+- Nedostatočné investície do rozvoja vidieka a decentralizácie ekonomiky
+
+2.4 Dôsledky preľudnenia mestských oblastí
+
+Nekontrolovaný rast mestskej populácie prináša komplexné výzvy, ktoré ovplyvňujú všetky aspekty života:
+
+A) Sociálne dôsledky
+- Vznik slumov a neformálnych osád bez prístupu k základným službám
+- Rast kriminality, násilia a sociálnej nerovnosti
+- Nedostatok dostupného bývania a bezdomovectvo
+- Preťažený verejný dopravný systém a dlhé dochádzky do práce
+- Obmedzený prístup ku kvalitným zdravotným a vzdelávacím inštitúciám
+
+B) Ekonomické dôsledky
+- Vysoká nezamestnanosť a rast neformálnej ekonomiky
+- Nízke mzdy a neistota pracovných podmienok
+- Tlak na verejné rozpočty a nedostatok investícií do infraštruktúry
+- Strata produktivity v dôsledku dopravných zápch a zlých životných podmienok
+
+C) Environmentálne dôsledky
+- Znečistenie ovzdušia a vody
+- Nedostatočné nakladanie s odpadmi a rozširovanie skládok
+- Strata biodiverzity a zelených plôch
+- Vyššia spotreba energie a produkcia emisií skleníkových plynov
+- Riziko šírenia infekčných chorôb v preplnených oblastiach
+
+D) Priestorové a infraštruktúrne dôsledky
+- Nekontrolované rozširovanie mesta do okolitej krajiny (urban sprawl)
+- Nepostačujúca technická infraštruktúra (elektrina, voda, kanalizácia)
+- Preťažené cesty a verejná doprava
+- Nelegálna výstavba na nebezpečných či chránených územiach
+
+2.5 Príklady preľudnených regiónov sveta
+
+A) Južná Ázia – India, Bangladéš, Pakistan
+India je domovom niekoľkých najľudnatejších a najhustejšie osídlených miest na svete. Mumbai, Dillí, Kalkata či Bangalore čelia masívnemu prílevu migrantov z vidieka. Dháka v Bangladéši je symbolom extrémnej hustoty osídlenia – na malej ploche žije viac ako 22 miliónov ľudí, pričom značná časť populácie žije v slumoch bez prístupu k pitnej vode či sanitáciám (World Bank, 2023).
+
+B) Juhovýchodná Ázia – Filipíny, Indonézia
+Manila je príkladom nekontrolovaného mestského rastu. Približne 40 % obyvateľov žije v neformálnych osadách. Problémom je nedostatok plánovania, korupcia a slabé inštitúcie. Jakarta v Indonézii zase čelí poklesu podložia v dôsledku nadmerného čerpania podzemnej vody, čo núti vládu uvažovať o premiestnení hlavného mesta (UN-Habitat, 2022).
+
+C) Subsaharská Afrika – Nigéria, Keňa, Etiópia
+Lagos v Nigérii patrí medzi najrýchlejšie rastúce mestá sveta. Odhaduje sa, že do roku 2050 bude mať viac ako 30 miliónov obyvateľov. Mesto nedokáže zabezpečiť základnú infraštruktúru – chýbajú cesty, verejná doprava, elektrina je nestabilná a väčšina obyvateľov žije v chaotických a nehygienických podmienkach. Podobná situácia je v Nairobi (Keňa) a Addis Abebe (Etiópia), kde mestá rastú rýchlejšie, než dokážu plánovať svoje rozširovanie (African Development Bank, 2021).
+
+2.6 Vyľudnenie – opačný demografický problém v rozvinutých krajinách
+
+Na opačnom konci demografického spektra sa nachádzajú mestá a regióny v rozvinutých častiach sveta, ktoré zaznamenávajú úbytok populácie, nízku plodnosť a starnutie obyvateľstva. Tento jav sa označuje ako vyľudnenie (depopulation) alebo demografický pokles (demographic decline).
+
+Príčiny vyľudnenia:
+- Nízka plodnosť (úhrnná miera plodnosti pod 2,1 dieťaťa na ženu)
+- Starnutie populácie a nedostatok mladých ľudí
+- Migrácia mladých a vzdelaných ľudí za lepšími príležitosťami
+- Ekonomické faktory – vysoké náklady na výchovu detí, nejistota na trhu práce
+- Zmena životného štýlu – priorita kariéry, individualizmus, neskoro zakladanie rodín
+
+Dôsledky vyľudnenia:
+- Starnutie populácie a tlak na dôchodkový a zdravotný systém
+- Nedostatok pracovnej sily a hospodársky pokles
+- Úpadok mestských štvrťí a infraštruktúry
+- Sociálna izolácia starších ľudí
+- Strata kultúrnej a spoločenskej vitality
+
+Príklady regiónov s demografickým poklesom:
+- Japonsko – Tokyo síce rastie, ale väčšina japonských miest zažíva prudký pokles populácie. Celková populácia Japonska klesá od roku 2010 (National Institute of Population and Social Security Research, 2023).
+- Východná Európa – mestá ako Bukurešť, Budapešť, či slovenské mestá čelia odlivu mladých ľudí na Západ a nízkej pôrodnosti.
+- Priemyselné regióny Európy a USA – Detroit, Pittsburgh, Liverpool – mestá, ktoré prišli o priemysel a s ním aj o obyvateľov (shrinking cities).
+
+2.7 Globálny rozmer problematiky
+
+Globálny demografický paradox spočíva v tom, že zatiaľ čo chudobné regióny sveta čelia nekontrolovanému rastu populácie a preľudneniu miest, bohaté regióny sa potýkajú s úbytkom obyvateľstva a starnutím. Tento rozdiel vytvára tlak na migráciu, sociálne napätie a geopolitickú nestabilitu.
+
+Podľa OSN (United Nations, 2022) sa do roku 2050 očakáva:
+- Rast svetovej populácie z 8 miliárd (2023) na 9,7 miliardy (2050)
+- 68 % svetovej populácie bude žiť v mestách
+- 90 % tohto rastu sa uskutoční v Ázii a Afrike
+- Naopak, populácia Európy a Východnej Ázie bude klesať alebo stagnácia
+
+Tento nerovnomerný vývoj vyžaduje globálne riešenia, ktoré budú riešiť:
+- Udržateľný mestský rozvoj v rozvojových krajinách
+- Podporu plodnosti a migračné politiky v rozvinutých krajinách
+- Decentralizáciu ekonomického rastu a investície do vidieka
+- Medzinárodnú spoluprácu v oblasti klimatickej zmeny a mobility obyvateľstva
+
+---
+
+Poznámky k literatúre (na doplnenie do záverečného zoznamu):
+- United Nations, Department of Economic and Social Affairs, Population Division (2022). World Urbanization Prospects 2022.
+- UN-Habitat (2022). World Cities Report 2022: Envisaging the Future of Cities.
+- World Bank (2023). Urban Development Overview.
+- African Development Bank (2021). African Economic Outlook 2021.
+- National Institute of Population and Social Security Research, Japan (2023). Population Projections for Japan.
