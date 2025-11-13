@@ -4,7 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "research:task1": "ts-node src/research-cli.ts task1",
+    "research:task2": "ts-node src/research-cli.ts task2",
+    "research:all": "ts-node src/research-cli.ts all",
+    "research:custom": "ts-node src/research-cli.ts custom"
   },
   "repository": {
     "type": "git",
@@ -20,5 +25,10 @@
     "better-sqlite3": "^12.4.1",
     "dotenv": "^17.2.3",
     "research-swarm": "^1.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }
