@@ -4,11 +4,11 @@
  * Based on 01-ARCHITECTURE.md CLI design
  */
 
-import { ResearchCoordinator, ResearchTask } from './core/ResearchCoordinator';
+import { ResearchCoordinator, ResearchTask } from './core/OpenRouterResearchCoordinator';
 import * as fs from 'fs';
 import * as path from 'path';
 
-const TASKS_CONFIG = {
+const TASKS_CONFIG: Record<string, ResearchTask> = {
   task01: {
     id: 'task01_demografia',
     query: `Potrebujem komplexný demografický profil Bratislavy, Slovensko od roku 1990 do 2025.
@@ -110,7 +110,7 @@ Example:
       await runTask(coordinator, customTask);
     }
 
-  } catch (error) {
+  } catch (error: any) {
     console.error('❌ Error:', error.message);
     process.exit(1);
   } finally {
